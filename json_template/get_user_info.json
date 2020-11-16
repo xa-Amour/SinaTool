@@ -1,0 +1,76 @@
+{
+    "ok": 1,
+    "data": {
+        "userInfo": {
+            "id": 3304930042,
+            "screen_name": "璐爷嫁到",
+            "profile_image_url": "https://tvax1.sinaimg.cn/crop.12.0.725.725.180/c4fd3afaly8fg4xxdy3wcj20ku0k50ty.jpg",
+            "profile_url": "https://m.weibo.cn/u/3304930042?uid=3304930042&luicode=10000011&lfid=1005053304930042",
+            "statuses_count": 990,
+            "verified": false,
+            "verified_type": -1,
+            "close_blue_v": false,
+            "description": "璐爷FM  电台主播",
+            "gender": "f",
+            "mbtype": 12,
+            "urank": 41,
+            "mbrank": 6,
+            "follow_me": false,
+            "following": false,
+            "followers_count": 12753,
+            "follow_count": 198,
+            "cover_image_phone": "https://tva1.sinaimg.cn/crop.0.0.640.640.640/638f41a8jw1eu9ifc3a97j20hs0hstc9.jpg",
+            "avatar_hd": "https://wx1.sinaimg.cn/orj480/c4fd3afaly8fg4xxdy3wcj20ku0k50ty.jpg",
+            "like": false,
+            "like_me": false,
+            "toolbar_menus": [
+                {
+                    "type": "profile_follow",
+                    "name": "关注",
+                    "pic": "",
+                    "params": {
+                        "uid": 3304930042
+                    }
+                },
+                {
+                    "type": "link",
+                    "name": "聊天",
+                    "pic": "http://h5.sinaimg.cn/upload/2015/06/12/2/toolbar_icon_discuss_default.png",
+                    "params": {
+                        "scheme": "sinaweibo://messagelist?uid=3304930042&nick="
+                    },
+                    "scheme": "https://passport.weibo.cn/signin/welcome?entry=mweibo&r=https%3A%2F%2Fm.weibo.cn%2Fapi%2Fcontainer%2FgetIndex%3Ftype%3Duid%26value%3D3304930042"
+                },
+                {
+                    "type": "link",
+                    "name": "文章",
+                    "pic": "",
+                    "params": {
+                        "scheme": "sinaweibo://cardlist?containerid=2303190002_445_3304930042_WEIBO_ARTICLE_LIST_DETAIL&count=20"
+                    },
+                    "scheme": "https://m.weibo.cn/p/index?containerid=2303190002_445_3304930042_WEIBO_ARTICLE_LIST_DETAIL&count=20&luicode=10000011&lfid=1005053304930042"
+                }
+            ]
+        },
+        "fans_scheme": "https://m.weibo.cn/p/index?containerid=231051_-_fansrecomm_-_3304930042&luicode=10000011&lfid=1005053304930042",
+        "follow_scheme": "https://m.weibo.cn/p/index?containerid=231051_-_followersrecomm_-_3304930042&luicode=10000011&lfid=1005053304930042",
+        "tabsInfo": {
+            "selectedTab": 1,
+            "tabs": [
+                {
+                    "title": "主页",
+                    "tab_type": "profile",
+                    "containerid": "2302833304930042"
+                },
+                {
+                    "title": "微博",
+                    "tab_type": "weibo",
+                    "containerid": "1076033304930042",
+                    "url": "/index/my"
+                }
+            ]
+        },
+        "showAppTips": 1,
+        "scheme": "sinaweibo://userinfo?uid=3304930042&luicode=10000011&lfid=&featurecode="
+    }
+}
